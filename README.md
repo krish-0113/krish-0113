@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Java Development,React, and Open Source Contributions  
 - 🌱 I’m currently learning Spring Boot, Advanced Java, and MicroServices 
 - 💞️ I’m looking to collaborate on Fulll Stack Java Developers, Hackathons, and Internships  
-- 📫 How to reach me: krishjadhav@gmail.com or connect with me on LinkedIn  
+- 📫 How to reach me: krishjadhav013@gmail.com or connect with me on LinkedIn  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I can debug code faster with chai in my hand ☕🚀
 
